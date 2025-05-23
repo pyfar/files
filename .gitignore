@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# macOS hidden files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows hidden files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
