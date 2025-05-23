@@ -1,0 +1,10 @@
+The samples were taken from 'Music for Archimedes' [1] (Track 4 and 5) with kind
+permission of Bang & Olufsen for research and personal purposes. Any commercial
+use or publication requires approval of Bang & Olufsen. For more information on
+the recordings see [2].
+
+(c) Bang & Olufsen
+
+[1] Music for Archimedes. Bang & Olufsen, 1992, CD B&O 101.
+[2] V. Hansen, and G. Munch, 'Making Recordings for Simulation Tests in the
+    Archimedes Project,' J. Audio Eng. Soc. 39, 768–774 (1991).

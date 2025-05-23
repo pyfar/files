@@ -1,0 +1,17 @@
+Data taken from [1]. The RIR is taken from Listener 9 (NTI 1/2 inch class I
+measurement microphone), the BRIR from Listener 1 (FABIAN head and torso
+simulator, head rotated 25 degree to the right). In both cases, the data was
+taken from Emitter 17. For more information see [2].
+
+License
+-------
+CC BY-NC-SA 4.0, David Ackermann, Audio Communication Group, Technical
+University of Berlin
+
+References
+----------
+[1] http://dx.doi.org/10.14279/depositonce-15774
+[2] D. Ackermann, J. Domann, F. Brinkmann, J. M. Arend, M. Schneider,
+    C. Pörschmann, and S. Weinzierl 'Recordings of a Loudspeaker Orchestra with
+    Multi-Channel Microphone Arrays for the Evaluation of Spatial Audio
+    Methods,' J. Audio Eng. Soc. (submitted)

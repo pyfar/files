@@ -1,0 +1,4 @@
+CC BY-SA Michio Woirgard, Philipp Stade, Jeffrey Amankwor, Benjamin Bernschütz,
+and Johannes Arend Audio Group, Cologne University of Applied Sciences
+(original data from http://audiogroup.web.th-koeln.de/anechoic.html,
+Flamenco2_U89.wav)
