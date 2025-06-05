@@ -1,0 +1,2 @@
+All FABIAN*.sofa files taken from FABIAN HRTF database available from https://doi.org/10.14279/depositonce-5718.5
+License: CC-BY 4.0
