@@ -1,0 +1,2 @@
+CC-BY 4.0, Fabian Brinkmann, Audio Communication Group, Technische Universität Berlin, 2025.
+For more information on the origin of the data see doi.org/10.17743/jaes.2017.0033
