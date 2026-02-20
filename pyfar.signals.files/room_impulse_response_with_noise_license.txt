@@ -1,0 +1,16 @@
+Impulse response re-computed from internal data published as [1] to maintain
+the noise floor. The published data does not contain the full noise floor.
+See room_impulse_response_license.txt for more information.
+
+License
+-------
+CC BY-NC-SA 4.0, David Ackermann, Audio Communication Group, Technical
+University of Berlin
+
+References
+----------
+[1] http://dx.doi.org/10.14279/depositonce-15774
+[2] D. Ackermann, J. Domann, F. Brinkmann, J. M. Arend, M. Schneider,
+    C. Pörschmann, and S. Weinzierl 'Recordings of a Loudspeaker Orchestra with
+    Multi-Channel Microphone Arrays for the Evaluation of Spatial Audio
+    Methods,' J. Audio Eng. Soc. (submitted)
