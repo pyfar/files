@@ -1,0 +1,2 @@
+excitation_sweep_fft18.wav and rec_sweep_3reps_fft18.wav
+License: CC-BY 4.0, Marco Berzborn, 2026.
